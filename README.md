@@ -3,7 +3,7 @@
 
 This java program generates time table based on certain rules.
 
-rules 🎯
+<h3> rules 🎯 </h3>
 
 A Teacher has a maximum of 2 lectures in a day. <br>
 A Teacher can take a maximum of 1 lecture in a particular class in a day.<br>
@@ -21,16 +21,16 @@ what it does
 
 It checks that whether at a particular time slot:
 
-A particular Teacher is free
-A particular Class is free
-Any room is available
-If a room is available, would it have the capacity to fit the class in?
+A particular Teacher is free <br>
+A particular Class is free <br> 
+Any room is available <br>
+If a room is available, would it have the capacity to fit the class in? <br> 
 Considering all these checks and the above rule program generates a timetable 🚩. At the end, the program also displays the Classes that are unable to take all their lectures.
 
 instructions
-Follow the below step to run the code:
+Follow the below step to run the code: <br>
 
-cd timetable-generator
-javac Main.java
-java Main.java
-screenshots
+cd timetable-generator <br>
+javac Main.java <br>
+java Main.java <br>
+screenshots <br>
