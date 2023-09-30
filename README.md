@@ -4,7 +4,7 @@
 
 This java program generates time table based on certain rules.
 
-<b> Rules 🎯 </b>
+<h1> Rules 🎯 </h1>
 
 A Teacher has a maximum of 2 lectures in a day. <br>
 A Teacher can take a maximum of 1 lecture in a particular class in a day.<br>
