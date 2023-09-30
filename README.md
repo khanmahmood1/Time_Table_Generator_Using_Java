@@ -18,7 +18,7 @@ Teachers, their Courses, and Classes are hardcoded. They all are stored in their
 <b>Flow</b>
 When the program starts to execute, it asks how many Rooms are available and their capacity. And asks the capacity of the Classes.
 
-<b>What it does</b>
+<h1>What it does 🔎</h1>
 
 It checks that whether at a particular time slot:-
 
