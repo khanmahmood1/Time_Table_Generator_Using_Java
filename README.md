@@ -1,5 +1,6 @@
 # SEM-3 Time_Table_Generator_Using_Java
 <br>
+<h1>This Project is a group project of four people</h1>
 
 This java program generates time table based on certain rules.
 
@@ -27,7 +28,7 @@ Any room is available <br>
 If a room is available, would it have the capacity to fit the class in? <br> 
 Considering all these checks and the above rule program generates a timetable 🚩. At the end, the program also displays the Classes that are unable to take all their lectures.
 
-<b>Instructions</b>
+<b>Instructions</b> <br>
 Follow the below step to run the code: <br>
 
 cd timetable-generator <br>
