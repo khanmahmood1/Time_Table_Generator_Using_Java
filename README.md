@@ -17,7 +17,7 @@ Teachers, their Courses, and Classes are hardcoded. They all are stored in their
 <b>Flow</b>
 When the program starts to execute, it asks how many Rooms are available and their capacity. And asks the capacity of the Classes.
 
-<b>what it does</b>
+<b>What it does</b>
 
 It checks that whether at a particular time slot:-
 
@@ -27,7 +27,7 @@ Any room is available <br>
 If a room is available, would it have the capacity to fit the class in? <br> 
 Considering all these checks and the above rule program generates a timetable 🚩. At the end, the program also displays the Classes that are unable to take all their lectures.
 
-<b>instructions</b>
+<b>Instructions</b>
 Follow the below step to run the code: <br>
 
 cd timetable-generator <br>
