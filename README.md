@@ -11,7 +11,7 @@ A Teacher can take a maximum of 1 lecture in a particular class in a day.<br>
 A Teacher can take a maximum of 2 lectures in a particular class in a week.<br>
 A Class has a maximum of 3 lectures in a day.
 
-<b> Note ⚠️ </b>
+<h1> Note ⚠️ </h1>
 
 Teachers, their Courses, and Classes are hardcoded. They all are stored in their specific Arrays. But you can change the data to use that program for your needs.<br>
 
