@@ -1,3 +1,4 @@
+// THIS CODE IS MAINLY WRITTEN CODE BY VAISHNAV, PARTH , KHAN MAHMOOD AND SANIKA WITH HELP OF TUTORIAL
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -22,10 +23,10 @@ public class Main {
         String[] totalClasses = {"1A", "1B", "1C", "2A", "2B", "2C"};
         String[] semester1Classes = {"1A", "1B", "1C"};
         String[] semester2Classes = {"2A", "2B", "2C"};
-        String[] semester1 = {"Introduction_To_Computing", "Applied_Physics", "Islamic_Studies", "Calculus", "English"};
+        String[] semester1 = {"Introduction_To_Computing", "Applied_Physics", "C_Programming", "Calculus", "English"};
         String[] semester2 = {"Programming_Fundamentals", "Multi_Calculus", "Discrete_Structures", "Report_Writing", "Digital_Logic_Design"};
         String[] teachersNames = {"Sir_Asif", "Mam_Nadia", "Mam_Saira", "Mam_Muneeba", "Mam_Ayesha", "Sir_Majid", "Sir_Tahir", "Mam_Shafia", "Sir_Suleiman", "Mam_Misbah"};
-        String[] teachersCourses = {"Programming_Fundamentals", "Multi_Calculus", "Discrete_Structures", "Report_Writing", "Digital_Logic_Design", "Introduction_To_Computing", "Applied_Physics", "Islamic_Studies", "Calculus", "English"};
+        String[] teachersCourses = {"Programming_Fundamentals", "Multi_Calculus", "Discrete_Structures", "Report_Writing", "Digital_Logic_Design", "Introduction_To_Computing", "Applied_Physics", "C_Programming", "Calculus", "English"};
 
         int ask = inputInt("How Many Rooms Are Available ? ");
         for (int i = 0; i < ask; i++) {
